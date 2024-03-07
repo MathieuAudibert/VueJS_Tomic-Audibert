@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Vente de café - Projet VueJS de 2ème année
+## Consignes : 
+![Screen consignes 1](./images-readme/image.png)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Screen consignes 2](./images-readme/image1.png)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Screen consignes 3](./images-readme/image2.png)
