@@ -1,7 +1,7 @@
 <template>
     <div>
       <Connexion />
-$    </div>
+    </div>
   </template>
   
   <script setup>

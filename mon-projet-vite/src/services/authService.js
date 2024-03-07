@@ -4,7 +4,7 @@ import axios from 'axios';
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
 import app from "../utils/firebase";
 
-
+//s'enregistrer
 export const register = async (email, password) => {
   try {
     const auth = getAuth(app);
@@ -16,6 +16,7 @@ export const register = async (email, password) => {
   }
 };
 
+//se connecter
 export const login = async (email, password) => {
   try {
     const auth = getAuth(app);

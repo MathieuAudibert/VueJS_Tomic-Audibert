@@ -2,7 +2,7 @@
     <div class="not-found">
       <h1>404</h1>
       <p>Page non trouvée.</p>
-      <router-link to="/">Retourner à l'accueil</router-link>
+      <router-link to="/">Retourner à l'accueil</router-link> <!-- balise routerlink = router push = utiliser une url diff -->
     </div>
   </template>
   

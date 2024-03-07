@@ -4,6 +4,7 @@ import Panier from '../pages/Panier.vue';
 import Connexions from '../pages/Connexions.vue';
 import NotFound from '../pages/NotFound.vue';
 import Inscription from '../components/Inscription.vue';
+import Selection from '../pages/Selection.vue';
 
 const routes = [
   {
@@ -11,9 +12,10 @@ const routes = [
     name: 'Home',
     component: Home
   },
+
   {
     path: '/panier',
-    name: 'panier',
+    name: Panier,
     component: Panier
   },
   { path: '/connexion',
@@ -23,6 +25,11 @@ const routes = [
   { path: '/inscription',
     name: Inscription,
     component: Inscription
+
+  },
+  { path: '/selection',
+    name: Selection,
+    component: Selection
 
   },
   { 
