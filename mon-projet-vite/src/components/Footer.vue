@@ -1,7 +1,7 @@
 <template>
     <footer class="footer">
       <div class="container">
-        <p>&copy; {{ currentYear }} Mon Site de E-commerce. Tous droits réservés.</p>
+        <p>&copy; {{ currentYear }} E-Cofee. Tous droits réservés.</p>
       </div>
     </footer>
   </template>
