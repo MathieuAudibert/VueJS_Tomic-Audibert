@@ -13,6 +13,8 @@
   const products = ref([
     { id: 1, name: 'Café Arabica', price: 7.99, imageUrl: 'https://lacaravelleverte.com/wp-content/uploads/2020/08/cafe-arabica-120g-cafecacao-caravelleweb.jpg' },
     { id: 2, name: 'Café baba', price: 9.00, imageUrl: 'https://lacaravelleverte.com/wp-content/uploads/2020/08/cafe-arabica-120g-cafecacao-caravelleweb.jpg' },
+    { id: 3, name: 'Café caca', price: 9.00, imageUrl: 'https://lacaravelleverte.com/wp-content/uploads/2020/08/cafe-arabica-120g-cafecacao-caravelleweb.jpg' },
+    
 
 ]);
   
