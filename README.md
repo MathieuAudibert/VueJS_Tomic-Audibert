@@ -6,3 +6,7 @@
 ![image](https://github.com/MathieuAudibert/VueJS_Tomic-Audibert/assets/105722701/c743d565-9e0e-4963-b404-9c110236d291)
 
 ![image](https://github.com/MathieuAudibert/VueJS_Tomic-Audibert/assets/105722701/bd8f2e97-c4f5-4584-b394-138991dfa0ee)
+
+## Contact :
+andrija.tomic@efrei.net 
+mathieu.audibert@efrei.net
